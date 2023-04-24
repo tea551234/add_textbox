@@ -1,0 +1,11 @@
+C:\Users\tea55\Desktop\readexcel\check_list_tool\check_list_tool\bin\Debug\check_list_tool.exe.config
+C:\Users\tea55\Desktop\readexcel\check_list_tool\check_list_tool\bin\Debug\check_list_tool.exe
+C:\Users\tea55\Desktop\readexcel\check_list_tool\check_list_tool\bin\Debug\check_list_tool.pdb
+C:\Users\tea55\Desktop\readexcel\check_list_tool\check_list_tool\obj\Debug\check_list_tool.csproj.AssemblyReference.cache
+C:\Users\tea55\Desktop\readexcel\check_list_tool\check_list_tool\obj\Debug\check_list_tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\tea55\Desktop\readexcel\check_list_tool\check_list_tool\obj\Debug\check_list_tool.Form1.resources
+C:\Users\tea55\Desktop\readexcel\check_list_tool\check_list_tool\obj\Debug\check_list_tool.Properties.Resources.resources
+C:\Users\tea55\Desktop\readexcel\check_list_tool\check_list_tool\obj\Debug\check_list_tool.csproj.GenerateResource.cache
+C:\Users\tea55\Desktop\readexcel\check_list_tool\check_list_tool\obj\Debug\check_list_tool.csproj.CoreCompileInputs.cache
+C:\Users\tea55\Desktop\readexcel\check_list_tool\check_list_tool\obj\Debug\check_list_tool.exe
+C:\Users\tea55\Desktop\readexcel\check_list_tool\check_list_tool\obj\Debug\check_list_tool.pdb
